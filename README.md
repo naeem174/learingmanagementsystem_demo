@@ -1,4 +1,4 @@
 # learingmanagementsystem_demo
-this is my  first repository,.,
+This is my  first repository,.,
 <br>
-author_naeem_iqbal..
+Author_naeem iqbal..
